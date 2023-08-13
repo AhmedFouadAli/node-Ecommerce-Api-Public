@@ -116,7 +116,7 @@ app.get("/", (req, res) => {
       <li class="bold-instruction">Fork the collection</li>
       <li class="bold-instruction">Add the following environment variable:
         <ul>
-          <li><strong>URL</strong> = https://ahmedfouadalinodeecommerceapi.vercel.app</li>
+          <li><strong>URL</strong> =https://e-commerce-api-ahmed-fouad.vercel.app</li>
         </ul>
       </li>
     </ol>
