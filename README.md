@@ -3,11 +3,14 @@
 Welcome to the E-Commerce API documentation! This API powers the backend of our E-Commerce platform, providing a robust set of endpoints for managing various aspects of the online store. Below, you'll find essential information to understand and utilize the API effectively.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [API Endpoints](#api-endpoints)
-- [Postman Collection](#postman-collection)
-- [Authentication](#authentication)
-- [Contact](#contact)
+- [E-Commerce API - README](#e-commerce-api---readme)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [API Endpoints](#api-endpoints)
+  - [Postman Collection](#postman-collection)
+  - [Authentication](#authentication)
+  - [Contact](#contact)
+    - [Contact information](#contact-information)
 
 ## Introduction
 The E-Commerce API is built using Node.js and Express.js, with MongoDB as the database backend. It offers a range of endpoints for categories, products, users, and more, enabling smooth operations for our online store.
@@ -30,7 +33,7 @@ The E-Commerce API is built using Node.js and Express.js, with MongoDB as the da
 ## Postman Collection
 Explore our API using the [Postman collection](https://elements.getpostman.com/redirect?entityId=18649674-cb9c60b8-9297-4e39-a2c1-e1ab13cb93e9&entityType=collection). Before forking the collection, follow these steps:
 1. Fork the collection for your own workspace.
-2. Add the environment variable `URL` with the value `https://ahmedfouadalinodeecommerceapi.vercel.app`.
+2. Add the environment variable `URL` with the value `https://e-commerce-api-ahmed-fouad.vercel.app`.
 
 ## Authentication
 Some routes require authentication:
