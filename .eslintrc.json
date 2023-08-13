@@ -12,6 +12,7 @@
     "no-param-reassign": "off",
     "no-return-await": "off",
     "no-underscore-dangle": "off",
+    "import/newline-after-import": "off",
     "class-methods-use-this": "off",
     "no-undef": "error",
     "node/no-unsupported-features/es-syntax": "off",

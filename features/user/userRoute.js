@@ -52,7 +52,7 @@ router.put(
 
 router
   .route("/")
-  .get(getUsers)
+  .get(protect, allowTo("admin"), getUsers)
   .post(
     protect,
     allowTo("admin"),

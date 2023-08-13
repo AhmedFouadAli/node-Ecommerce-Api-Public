@@ -39,7 +39,6 @@ exports.getUsers = asyncHandler(async (req, res) => {
     result: users.length,
     data: users,
   });
-  res.json({ result: users.length, data: users });
 });
 
 exports.getUser = asyncHandler(async (req, res, next) => {
